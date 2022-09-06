@@ -8,7 +8,7 @@ public class HomeWorkApp2 {
         StringAndNumber("jhfse",12);
     }
     static boolean within10and20(int a, int b) {
-      return (a + b <= 20) && (a + b >= 10);
+        return (a + b <= 20) && (a + b >= 10);
     }
 
     public static void PositiveOrNegative( int num) {
@@ -26,7 +26,4 @@ public class HomeWorkApp2 {
             System.out.println(str);
         }
     }
-    }
-
-
-
+}
